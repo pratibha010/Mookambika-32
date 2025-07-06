@@ -26,4 +26,6 @@ jobs:
       with:
         context: .
         push: true
-        tags: tenet00/testforactions:latest
+        tags: 7975142150
+
+/Mookambika-32:latest
